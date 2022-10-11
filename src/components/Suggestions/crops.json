@@ -1,0 +1,111 @@
+{
+	"Rice": {
+		"min_T": 22,
+		"max_T": 32,
+		"min_rain": 150,
+		"max_rain": 300,
+		"sowing_start": "June",
+		"sowing_stop": "July",
+		"harvest_start": "November",
+		"harvest_stop": "December",
+		"locations": [
+			"West Bengal",
+			"Punjab",
+			"Uttar Pradesh",
+			"Andhra Pradesh",
+			"Bihar",
+			"Assam",
+			"Odisha"
+		]
+	},
+	"Wheat": {
+		"min_T": 10,
+		"max_T": 15,
+		"min_rain": 75,
+		"max_rain": 100,
+		"sowing_start": "November",
+		"sowing_stop": "December",
+		"harvest_start": "April",
+		"harvest_stop": "May",
+		"locations": [
+			"Uttar Pradesh",
+			"Punjab",
+			"Madhya Pradesh",
+			"Harayana",
+			"Rajasthan",
+			"West Bengal"
+		]
+	},
+	"Jowar": {
+		"min_T": 27,
+		"max_T": 32,
+		"min_rain": 50,
+		"max_rain": 100,
+		"sowing_start": "June",
+		"sowing_stop": "July",
+		"harvest_start": "November",
+		"harvest_stop": "December",
+		"locations": [
+			"Maharashtra",
+			"Karnataka",
+			"Madhya Pradesh",
+			"Tamil Nadu",
+			"Andhra Pradesh",
+			"West Bengal"
+		]
+	},
+	"Bajra": {
+		"min_T": 27,
+		"max_T": 32,
+		"min_rain": 50,
+		"max_rain": 100,
+		"sowing_start": "July",
+		"sowing_stop": "July",
+		"harvest_start": "November",
+		"harvest_stop": "December",
+		"locations": [
+			"Rajasthan",
+			"Karnataka",
+			"Gujrat",
+			"Madhya Pradesh",
+			"Harayana",
+			"West Bengal"
+		]
+	},
+	"Maize": {
+		"min_T": 21,
+		"max_T": 27,
+		"min_rain": 200,
+		"max_rain": 500,
+		"sowing_start": "June",
+		"sowing_stop": "July",
+		"harvest_start": "August",
+		"harvest_stop": "December",
+		"locations": [
+			"Karnataka",
+			"Maharashtra",
+			"Madhya Pradesh",
+			"Tamil Nadu",
+			"Telangana",
+			"West Bengal"
+		]
+	},
+	"Arhar": {
+		"min_T": 20,
+		"max_T": 27,
+		"min_rain": 25,
+		"max_rain": 60,
+		"sowing_start": "June",
+		"sowing_stop": "July",
+		"harvest_start": "November",
+		"harvest_stop": "December",
+		"locations": [
+			"Madhya Pradesh",
+			"Rajasthan",
+			"Maharashtra",
+			"Uttar Pradesh",
+			"Karnataka",
+			"West Bengal"
+		]
+	}
+}

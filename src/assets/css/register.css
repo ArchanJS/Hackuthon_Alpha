@@ -1,0 +1,15 @@
+.blueBox {
+	height: 15px;
+	width: 15px;
+	background-color: #5e72e4;
+	box-shadow: 0 0 1px 1px rgba(0, 0, 0, 0.2);
+	margin-right: 10px;
+}
+
+.whiteBox {
+	height: 15px;
+	width: 15px;
+	background-color: white;
+	box-shadow: 0 0 1px 1px rgba(0, 0, 0, 0.2);
+	margin-right: 10px;
+}

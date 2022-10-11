@@ -1,0 +1,22 @@
+.goog-te-banner-frame.skiptranslate {
+    display: none !important;
+}
+body {
+    top: 0px !important;
+}
+.goog-logo-link {
+    display:none !important;
+} 
+    
+.goog-te-gadget{
+    color: transparent !important;
+}
+
+@media only screen and (max-width: 992px) {
+    .goog-te-gadget .goog-te-combo{
+        margin-left: 75% !important;
+    }
+  }
+
+  #goog-gt-tt, .goog-te-balloon-frame{display: none !important;} 
+.goog-text-highlight { background: none !important; box-shadow: none !important;}
